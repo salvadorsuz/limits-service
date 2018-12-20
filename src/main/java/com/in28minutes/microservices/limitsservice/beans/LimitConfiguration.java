@@ -5,7 +5,7 @@ public class LimitConfiguration {
 	private int maximun;
 	
 	private int minimun;
-	
+
 	public int getMaximun() {
 		return maximun;
 	}
